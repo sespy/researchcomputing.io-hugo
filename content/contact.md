@@ -1,13 +1,13 @@
 ---
-title: Contact
-description: I'd love to hear from you
+title: Contact us
+description: Reach out with your thoughts and input.
 type: page
 menu:
   main: {}
 
 ---
 
+Reach out with your thoughts and input.
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+{{< form-contact action="https://formspree.io/espy@espy.net"  >}}
 
-{{< form-contact action="https://example.com"  >}}
