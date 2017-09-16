@@ -1,6 +1,6 @@
 ---
 title: "Buy-vs.-Build is Not Just for Software"
-description: "Buy-vs.-Build is Not Just for Software."
+description: "Buy-vs.-Build is Not Just for Software: Taking a fresh look at a persistent question"
 tags: [ "cost", "strategy", "architecture" ]
 lastmod: "2017-09-16"
 date: "2017-01-01"
@@ -8,21 +8,20 @@ categories:
   - "Strategy"
 slug: "buy-vs-build-is-not-just-for-software"
 ---
-### Buy-vs.-Build is Not Just for Software
+# Taking a fresh look at a persistent question
 
 ## Part 0
 
 Anyone even occasionally wandering beyond the individual contributor role in IT has been faced with this notion: There is often a choice between buying and building software. And it is not a bad idea to go ahead and adopt a default setting of "Buy". Not a rule, mind you, rather a starting point for any given upcoming IT endeavor.
 
-# Why?
+### Why?
 
 It's cheaper. Usually. Sometimes a lot.
 
 Creating software is easy. Creating big software can be hard.  And creating excellent software is borderline miraculous.
 
 
-
-# Why not?
+### Why not?
 
 So making excellent software hard, so why would you EVER go it on your own?
 
@@ -45,7 +44,7 @@ Economics of solutions are the lowest common denominator in enterprise IT equati
 The delimma is misunderstood, miscalculated, overapplied, and underapplied.
 
 
-# misunderstood
+### misunderstood
 
 Write a
 It is not sayig you dont' need software developers.
@@ -53,13 +52,13 @@ integration becomes more critical
 that s probably how you should write enterpise softare anyway
 
 
-# miscalculate4d
+### miscalculate4d
 
 EG Prima
 
 
 
-# overapplied
+### overapplied
 
 dont leave your oraganiztion without softrware developsrs.
 "All companies are soft3warer companies"
@@ -68,7 +67,7 @@ avoiding wrinting an adampotrer or a feaature buy paying the company to... parti
 Example of overapplication are low handing fruit, and are left as an excersie for homework.
 
 
-# underapplied
+### underapplied
 This is the nut of this article.
 
 It is applied to software - write or buy.
@@ -92,5 +91,5 @@ If you think you enterpise is better at managing the information security needs 
 
 ## Part 0
 
-# Intersting cases
+### Intersting cases
 Applying a teams energy to contributing to an open sourfce pject taht falls short of the needs of an enterpirse.
