@@ -1,6 +1,5 @@
 ---
 title: "ResearchComputing.io"
 description: "Advancing research through information technology"
-
 ---
-Welcome researchcomputing.io, a source for basic sciences and life-sciences resources for the research IT community.
+Welcome researchcomputing.io, a cache of basic sciences and life sciences ideas resources for the research information technology community.
