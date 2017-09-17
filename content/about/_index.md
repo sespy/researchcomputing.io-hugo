@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "A collection of thoughts from a collection of sources."
-featured_image: ''
+featured_image: "/images/banner-blu-dna-1.jpg"
 ---
 <!--
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
