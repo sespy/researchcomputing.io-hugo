@@ -18,7 +18,7 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
   filename = "sitemap.xml"
 
 [params]
-  description = "Advancing research through information technology."
+  description = "Someone forgot to include a description in the .toml file"
   facebook = ""
   twitter = ""
   instagram = ""
