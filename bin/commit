@@ -2,13 +2,13 @@
 
 prev=`pwd`
 
-
 git pull
 git add .
 git commit -m "iter"
 git push
 git status
 
+./bin/gen
 
 cd ../researchcomputing.io
 git pull

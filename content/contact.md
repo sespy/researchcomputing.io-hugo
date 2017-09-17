@@ -1,5 +1,5 @@
 ---
-title: Contact us
+title: Contact
 description: Reach out with your thoughts and input.
 type: page
 menu:

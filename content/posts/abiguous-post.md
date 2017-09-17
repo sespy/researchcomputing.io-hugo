@@ -1,4 +1,3 @@
-
 ---
 title: "Ambiguous Post"
 description: "ideas from a source or two"
@@ -10,5 +9,3 @@ categories:
   - "VIM"
 slug: "ambiguous-post"
 ---
-
-
