@@ -6,6 +6,7 @@ lastmod: "2017-09-16"
 date: "2017-01-01"
 categories:
   - "Strategy"
+  - "Architecture"
 slug: "buy-vs-build-is-not-just-for-software"
 ---
 # Taking a fresh look at a persistent question
@@ -25,13 +26,9 @@ Creating software is easy. Creating big software can be hard.  And creating exce
 
 So making excellent software hard, so why would you EVER go it on your own?
 
-No such soluton exists: While there is a lot of suprisinly specify 3rd party solutions.[ mazing examples here ] not everything needed in the world of software has been created. And buying a big solution that includes one smaller set of functionaotuy you need fails basic economic tests.
-
+No such solution exists: While there is a lot of surprisingly specify 3rd party solutions.[ mazing examples here ] not everything needed in the world of software has been created. And buying a big solution that includes one smaller set of functionality you need fails basic economic tests.
 
 It's not just harder for YOU: Somebody wrote the software you buy and you can't assume that they were somehow magically better at writing software than the developers that your recruiters brought you. Your developers are not perfect, but neither are theirs.
-
-
-
 
 
 
@@ -41,15 +38,15 @@ Economics of solutions are the lowest common denominator in enterprise IT equati
 
 ## Part 0
 
-The delimma is misunderstood, miscalculated, overapplied, and underapplied.
+The dilemma is misunderstood, miscalculated, over-applied, and under-applied.
 
 
 ### misunderstood
 
 Write a
-It is not sayig you dont' need software developers.
+It is not saying you don't need software developers.
 integration becomes more critical
-that s probably how you should write enterpise softare anyway
+that s probably how you should write enterprise software anyway
 
 
 ### miscalculate4d
@@ -58,23 +55,23 @@ EG Prima
 
 
 
-### overapplied
+### over-applied
 
 dont leave your oraganiztion without softrware developsrs.
 "All companies are soft3warer companies"
-avoiding wrinting an adampotrer or a feaature buy paying the company to... particularly frought.
+avoiding wrinting an adampotrer or a feaature buy paying the company to... particularly fraught.
 
-Example of overapplication are low handing fruit, and are left as an excersie for homework.
+Example of over-application are low handing fruit, and are left as an exercise for homework.
 
 
-### underapplied
+### under-applied
 This is the nut of this article.
 
 It is applied to software - write or buy.
 
 If it wasn't clear enough from the reasons just mentioned, it should become clear based on the
-software defined netwroks
-infrastrucure as code
+software defined networks
+infrastructure as code
 orchestration throuh kubernetes/foreman
 docker
 
