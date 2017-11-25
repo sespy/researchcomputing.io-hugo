@@ -8,5 +8,6 @@ categories:
   - "Strategy"
   - "Architecture"
 slug: "buy-vs-build-is-not-just-for-software"
+draft: true
 ---
 TBD
